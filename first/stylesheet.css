@@ -1,0 +1,94 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.frame {
+	height: 100%;
+	width: 70%;
+	margin: 0 auto;
+	background: white;
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.topbar {
+	width: 100%;
+	height: 15%;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+}
+
+#topBoxLeft {
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	float: left;
+	background-color: #B10320;
+}
+
+#topBoxMiddle {
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	background-color: #658FDE;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#topBoxRight {
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	background-color: #4B4B4B;
+	float: right;
+}
+
+.txtcontent {
+	width: 100%;
+	height: 40%;
+	margin: 0 auto;
+	background-color: white;
+	overflow-y: auto;
+}
+
+.redblue {
+	width: 100%;
+	height: 37%;
+	margin: 0 auto;
+	background-color: #658FDE;
+}
+
+#redbox {
+	height: 100%;
+	width: 30%;
+	float: left;
+	background-color: #B10320;
+}
+
+.bottombar {
+	width: 100%;
+	height: 13%;
+	margin: 3% auto;
+	background-color: #658FDE;
+}
+
+#bottomRed {
+	width: 30%;
+	height: 100%;
+	float: right;
+	background-color: #B10320;
+}
+
+#bottomGray {
+	width: 75%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #4B4B4B;
+}
