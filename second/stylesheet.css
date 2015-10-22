@@ -1,0 +1,126 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	background: #DEDEDE;
+}
+
+.frame {
+	width: 700px;
+	height: 100%;
+	margin: 0 auto;
+	background: #D7D7D7;
+}
+
+.main {
+	width: 80%;
+	height: 89%;
+	margin: 0 auto;
+	padding-top: 35px;
+	background: #D8D8D8;
+}
+
+.topContent {
+	width: 100%;
+	height: 30%;
+	margin: 0 auto;
+	padding-top: 15px;
+	background: white;
+}
+
+#topText {
+	width: 85%;
+	height: 23%;
+	margin: 0 auto;
+	border-bottom: 20px solid white;
+}
+
+#topText p {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+#topButtonRed {
+	width: 120px;
+	height: 50px;
+	display: inline-block;
+	margin: 105px auto auto 25px;
+	background: #C80B23;
+	border: 1px solid gray;
+}
+
+#topButtonBlue {
+	width: 120px;
+	height: 50px;
+	display: inline-block;
+	margin-left: 13px;
+	background: #4B8DD7;
+	border: 1px solid gray;
+}
+
+#topButtonRed p, #topButtonBlue p {
+	text-align: center;
+	font-size: 18px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.bottomContent {
+	width: 100%;
+	height: 60%;
+	margin: 8% auto;
+	padding-top: 20px;
+	background: white;
+}
+
+#imageFrame {
+	width: 500px;
+	height: 300px;
+	margin: auto auto 4% auto;
+	background: #4A4A4A;
+	text-align: center;
+}
+
+#bottomText {
+	width: 85%;
+	height: 23%;
+	margin: 0 auto;
+}
+
+#bottomText p {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.bottomBar {
+	width: 100%;
+	height: 84px;
+	margin: 0 auto;
+	background: #333333;
+}
+
+.bButton {
+	margin: 30px 60px auto auto;
+	float: right;
+}
+
+#appleButton, #googleButton {
+	display: inline-block;
+}
+
+#appleButton a {
+	width: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+#googleButton a {
+	width: 50px;
+	text-decoration: none;
+	color: white;
+	margin-left: 45px;
+	font-family: sans-serif;
+	font-size: 18px;
+}
